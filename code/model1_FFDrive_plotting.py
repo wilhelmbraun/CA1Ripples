@@ -8,6 +8,7 @@ Created on Thu Oct 14 2021
 
 ###
 #Feedforward drive to I cells in model 1
+#Generate Fig. S7
 
 
 from brian2 import *
