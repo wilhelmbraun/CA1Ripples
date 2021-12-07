@@ -1,1 +1,4 @@
+### The code requires brian2 and python3.
+
+### Please see scripts for more information.
 
