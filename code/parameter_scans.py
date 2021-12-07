@@ -11,6 +11,7 @@ Created on Tue Dec 7 2021
 #This script generates data for Figures 4, 6 and 8. It uses the multiprocessing toolbox and either requires a cluster or a larger desktop computer (more than 10 threads) to finish in reasonable time.
 #Script is setup so that its execution will generate data for Fig. 8. It can easily be adapted (lines 1040- 1125) to generate the data for all parameter plots in the manuscript.
 #Code for model 1 starts on line 52, for model 1 with feedforward drive to basket cells on line 283, for model 2 on line 518 and code for model 3 on line 748.
+#Some computing architectures only work with 'numpy' code generation target set below.
 #############
 #############
 
