@@ -3,6 +3,6 @@
 
 [Link]( https://www.biorxiv.org/content/10.1101/2021.06.08.447523v1.abstract) to manuscript.
 
-Contact: wbraun@uni-bonn.de
+Contact: wbraun (at) uni-bonn.de or rm.memmesheimer (at) uni-bonn.de
 
 
