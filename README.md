@@ -3,7 +3,9 @@
 
 The python files can be run directly, using 
 
-$python name_of_script.py$
+```python
+python name_of_script.py
+```
 
 to generate the manuscript results as indicated.
 
